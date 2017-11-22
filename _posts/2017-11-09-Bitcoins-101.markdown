@@ -3,7 +3,6 @@ layout: post
 title:  "Bitcoins 101"
 date:   2017-11-09 11:18:41 +0530
 categories: Talks
-comments: true
 ---
 # Talk on Bitcoins by Shiva Ashish Thumparthy and Nihal Kudligi
 
