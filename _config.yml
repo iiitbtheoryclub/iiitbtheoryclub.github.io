@@ -16,7 +16,7 @@
 title: IIIT Bangalore Theory Club
 email: Theory.Club@iiitb.org
 description: > # this means to ignore newlines until "baseurl:"
-  Contact moderators at ApoorvVikram.Singh@iiitb.org or ps.srinivasan@iiitb.org
+  Contact moderators at ApoorvVikram.Singh@iiitb.org  ps.srinivasan@iiitb.org
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
