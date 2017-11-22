@@ -11,4 +11,4 @@ Title: Bitcoins 101
 Abstract: Bitcoin is a revolutionary new way to model currency, as it eliminates the need for central authorities such as banks and governments to supervise and regulate it, making it an entirely decentralized, peer-to-peer currency. This talk traces the rise of Bitcoin, the advantages, and disadvantages it holds over regular fiat currencies, an under the hood view of how it works and why it is the future.
 
 
-Link to their {{notes}}(/TalkMaterials/Bitcoin101-Ashish.pdf)
+Link to their [notes]({{ site.url }}/TalkMaterials/Bitcoin101-Ashish.pdf)
