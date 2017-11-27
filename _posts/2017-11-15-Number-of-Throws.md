@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Expected Number of Dice Throws"
-date:   2017-11-09 11:18:41 +0530
+date:   2017-11-15 11:18:41 +0530
 categories: blog
 author: Apoorv
 comments : True
