@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Expected Value of the Random Variable"
-date:   2017-10-20 11:18:41 +0530
-categories: blog
+date:   2017-11-15 11:18:41 +0530
+categories: questions
 author: Apoorv
 comments : True
 ---

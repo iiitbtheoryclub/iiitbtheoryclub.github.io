@@ -2,7 +2,7 @@
 layout: post
 title:  "Bitcoins 101"
 date:   2017-11-09 11:18:41 +0530
-categories: Talks
+categories: talks
 comments : True
 ---
 # Talk on Bitcoins by [Shiva Ashish Thumparthy](https://www.linkedin.com/in/shiva-ashish-3a9960bb/) and [Nihal Kudligi](https://www.linkedin.com/in/nihal-kudligi-820532100/)
@@ -12,5 +12,5 @@ Abstract: Bitcoin is a revolutionary new way to model currency, as it eliminates
 
 Link to their [notes](/pdfs/Bitcoin101-Ashish.pdf)
 
-See the club in Action
+See the talk in Action
 ![Club in action](/images/Bitcoins-101.jpeg)

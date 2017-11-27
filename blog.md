@@ -4,4 +4,4 @@ title: Blog
 permalink: /blog/
 ---
 
-We will post questions, articles contributed by the students, or anything fun found online.
+We will post relevant articles contributed by the students here.
