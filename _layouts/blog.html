@@ -4,13 +4,13 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">Posts</h1>
+  <h1 class="page-heading">Questions and Blogs</h1>
 
   {{ content }}
 
   <ul class="post-list">
     {% for post in site.posts %}
-    {% unless post.categories contains 'blog' %}
+      {% if post.categories contains 'blog' %}
       <li>
         {% assign date_format = site.minima.date_format | default: "%b %-d, %Y" %}
         <span class="post-meta">{{ post.date | date: date_format }}</span>
@@ -19,7 +19,7 @@ layout: default
           <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
         </h2>
       </li>
-    {% endunless %}
+      {% endif %}
     {% endfor %}
   </ul>
 
