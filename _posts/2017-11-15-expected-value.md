@@ -13,7 +13,7 @@ Expand the following expression assuming $$ Z, A, B, C $$ are random variables. 
 \end{equation}
 
 # Solution
-![Solution](/images/Expected-Value.jpg)
+![Solution](/images/expected-value.jpg)
 
 # Source
 Author's class notes.
