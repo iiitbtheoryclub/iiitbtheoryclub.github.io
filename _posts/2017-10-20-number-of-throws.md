@@ -13,3 +13,6 @@ You throw a dice until you get 6. What is the expected number of throws (includi
 ![Solution](/images/dice-throws.jpg)
 
 ## [Source](https://gilkalai.wordpress.com/2017/09/07/tyi-30-expected-number-of-dice-throws/)
+
+### Solved (correctly):
+- Tarun Dutt
