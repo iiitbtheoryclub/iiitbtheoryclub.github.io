@@ -13,3 +13,5 @@ Abstract: Amidst of the buzz around artificial intelligence, a humble field that
 
 See the talk in action (audience)
 ![Talk in action](/images/computational-neuroscience.jpeg)
+
+Link to the [slides](/pdfs/computational-neuroscience-kumaresh.pdf)
