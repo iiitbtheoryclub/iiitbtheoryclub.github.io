@@ -5,7 +5,7 @@ date:   2018-03-12 18:00:00 +0530
 categories: talks
 comments : True
 ---
-# Talk on Classical and Quantum Information: Exploring the abstract limits of Computation and Cognition by [Sushravya GM](https://www.facebook.com/sushravya.gm)
+# Talk on Classical and Quantum Information: Exploring the abstract limits of Computation and Cognition by [Sushravya GM](https://sushravya-gm.github.io/)
 
 #### Date: 14th, March, 2018
 
