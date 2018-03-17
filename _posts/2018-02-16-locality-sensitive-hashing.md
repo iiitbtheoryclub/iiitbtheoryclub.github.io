@@ -5,7 +5,7 @@ date:   2018-03-16 18:30:00 +0530
 categories: talks
 comments : True
 ---
-# Talk on Locality-Sensitive Hashing [Rameshwar Pratap](https://sites.google.com/site/prataprameshwaryadav/)
+# Talk on Locality-Sensitive Hashing by [Rameshwar Pratap](https://sites.google.com/site/prataprameshwaryadav/)
 
 #### Date: 20th, March, 2018
 
