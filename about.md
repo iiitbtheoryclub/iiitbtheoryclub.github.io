@@ -12,14 +12,14 @@ Interested students can volunteer to conduct talks/teaching sessions on a pletho
 [IIIT Bangalore official site](https://www.iiitb.ac.in/)
 
 ### Address 
-IIIT-Bangalore
-
-26/C, Electronics City,
-
-Hosur Road, Bangalore - 560100
+IIIT-Bangalore 26/C,  
+Electronics City, Hosur Road,  
+Bangalore - 560100
 
 
 
 ```html
+
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3889.9770862892574!2d77.66103764984196!3d12.844756421081135!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bae135aeb7f340f%3A0x3ad86af40d2ac611!2sInternational+Institute+of+Information+Technology+Bangalore!5e0!3m2!1sen!2sin!4v1521305494536" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 ```
