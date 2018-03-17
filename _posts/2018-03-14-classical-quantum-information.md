@@ -23,3 +23,6 @@ The talk is divided into two parts: In the first part, we will have a quick info
 ### About the Speaker:
 
 Sushravya is a researcher at Accenture Artificial Intelligence Lab, Bangalore. In July 2017, she obtained her (Integrated) Master's Degree in Data Science from IIIT, Bangalore. The focus of her graduate research under Prof. Shrisha Rao, was on building theoretical foundations for end-to-end transfer learning in Deep RL models. She continues this line of research, applying ideas from theoretical physics and engineering mathematics on insights form systems-neuroscience.
+
+Link to the [slides](/pdfs/classical_quantum_sushravya.pdf).
+[Links collection for self study](/pdfs/quantum_links_sushravya.pdf) by Sushravya.
