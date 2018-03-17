@@ -10,7 +10,7 @@ The aim of the club is to share knowledge on various theoretical computer scienc
 
 Interested students can volunteer to conduct talks/teaching sessions on a plethora of topics which will be held regularly. There will be discussions, problems and interesting articles/research papers posted on the [Facebook page.](https://www.facebook.com/iiitbtheoryclub) 
 
-### Address 
-[IIIT-Bangalore](https://www.iiitb.ac.in/), [26/C,  
+### [Address](https://www.google.co.in/maps/place/International+Institute+of+Information+Technology+Bangalore/@12.8447564,77.6610376,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae135aeb7f340f:0x3ad86af40d2ac611!8m2!3d12.8447512!4d77.6632317) 
+[IIIT-Bangalore](https://www.iiitb.ac.in/), 26/C,  
 Electronics City, Hosur Road,  
-Bangalore - 560100] (https://www.google.co.in/maps/place/International+Institute+of+Information+Technology+Bangalore/@12.8447564,77.6610376,17z/data=!3m1!4b1!4m5!3m4!1s0x3bae135aeb7f340f:0x3ad86af40d2ac611!8m2!3d12.8447512!4d77.6632317)
+Bangalore - 560100
