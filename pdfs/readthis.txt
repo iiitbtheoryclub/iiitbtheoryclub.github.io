@@ -1,1 +1,16 @@
 Upload Pdfs here
+
+Before pushing it online, please edit the metadata of the pdf.
+
+View pdf metadata for a file called Example.pdf:
+
+1) pdfinfo Example.pdf  
+Edit existing metadata in the terminal using vim/vi editor:
+
+2) pdftk Example.pdf dump_data output Metadata-output.txt
+vim Metadata-output.txt  
+
+3) Update metadata:
+pdftk Example.pdf update_info Metadata-output.txt output Example-new.pdf
+
+Note: Name the author as the speaker, Title as title of the talk and producer as iiitbtheoryclub
