@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "T: Talk on Introduction to Approximation Algorithms"
+title:  "T: Introduction to Approximation Algorithms"
 date:   2017-11-23 11:00:00 +0530
 categories: talks
 comments : True
