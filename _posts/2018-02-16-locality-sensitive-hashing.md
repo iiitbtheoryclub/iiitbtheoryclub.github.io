@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Locality Sensitive Hashing (LSH)"
+title:  "T: Locality Sensitive Hashing (LSH)"
 date:   2018-03-16 18:30:00 +0530
 categories: talks
 comments : True

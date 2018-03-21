@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Computational Neuroscience"
+title:  "T: Talk on Computational Neuroscience"
 date:   2018-02-20 21:00:00 +0530
 categories: talks
 comments : True

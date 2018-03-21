@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expected Value of the Random Variable"
+title:  "Q: Expected Value of the Random Variable"
 date:   2017-11-15 11:18:41 +0530
 categories: questions
 author: Apoorv

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "What Does The Sequence Converge To?"
+title:  "Q: What Does The Sequence Converge To?"
 date:   2017-11-20 11:18:41 +0530
 categories: questions
 author: Apoorv
@@ -13,4 +13,4 @@ What does the following sequence converge to?
 \end{equation}
 
 # Solved (correctly)
-- Still Open 
+- Still Open

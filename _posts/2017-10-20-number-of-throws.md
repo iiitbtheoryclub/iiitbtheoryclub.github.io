@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Expected Number of Dice Throws"
+title:  "Q: Expected Number of Dice Throws"
 date:   2017-10-20 11:18:41 +0530
 categories: questions
 author: Apoorv

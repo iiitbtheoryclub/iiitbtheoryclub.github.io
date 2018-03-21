@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Classical and Quantum Information: Exploring the abstract limits of Computation and Cognition"
+title:  "T: Classical and Quantum Information: Exploring the abstract limits of Computation and Cognition"
 date:   2018-03-12 18:00:00 +0530
 categories: talks
 comments : True
