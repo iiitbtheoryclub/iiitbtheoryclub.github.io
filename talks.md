@@ -1,6 +1,6 @@
 ---
 layout: talks
-title: (T:)alks
+title: (T)alks
 permalink: /talks/
 ---
 

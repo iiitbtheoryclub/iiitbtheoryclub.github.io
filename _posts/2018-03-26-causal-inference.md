@@ -16,9 +16,9 @@ comments : True
 ### Abstract:
 
 Consider the following questions-  
-1) How can we test the effectiveness of a drug as a treatment for a particular disease? In other words, how can we know that the drug can cause the disease to be cured?  
-2) Given the circumstances, how did a person die? Or, what was the cause of death of the person? If the circumstances were different in some way, would the person still be dead?  
-3) How many crimes have been avoided after the implementation of a particular policy? In other words, did a particular policy cause a decrease in the number of crimes?
+1. How can we test the effectiveness of a drug as a treatment for a particular disease? In other words, how can we know that the drug can cause the disease to be cured?  
+2. Given the circumstances, how did a person die? Or, what was the cause of death of the person? If the circumstances were different in some way, would the person still be dead?  
+3. How many crimes have been avoided after the implementation of a particular policy? In other words, did a particular policy cause a decrease in the number of crimes?
 
 All of the above questions are causal rather than associational, and finding answers to these questions requires some knowledge about the data generating process.
 

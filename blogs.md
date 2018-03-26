@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: (B:)logs
+title: (B)logs
 permalink: /blogs/
 ---
 
