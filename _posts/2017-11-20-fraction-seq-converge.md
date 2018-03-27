@@ -14,3 +14,7 @@ What does the following sequence converge to?
 
 # Solved (correctly)
 - Still Open
+
+## Source
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Curious fact: these fractions converge to √2/2. Can you prove it in a Tweet? <a href="https://t.co/cBcb6yXWnE">pic.twitter.com/cBcb6yXWnE</a></p>&mdash; Fermat&#39;s Library (@fermatslibrary) <a href="https://twitter.com/fermatslibrary/status/931889002877194245?ref_src=twsrc%5Etfw">November 18, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
