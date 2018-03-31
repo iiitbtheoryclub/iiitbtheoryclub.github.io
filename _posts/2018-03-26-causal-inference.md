@@ -26,3 +26,5 @@ Causality and causal inference is a new, emerging area of research that aims to 
 
 ### About the Speaker:
 Tanmayee is a Research Software Engineer at IBM Research AI. She obtained her Master’s degree from IIIT Bangalore in 2017. Her Master’s thesis was on the methods for empirical validation of causal models whose true underlying structures are unknown. Previously, she has worked at Siemens R&D and as a Visiting Student in MIT Media Lab under Prof Sandy Pentland. She has also worked with Fields of View and Medialab Amsterdam in developing a serious game on solid waste management in Bangalore. Her research interests include Causal Inference, Reasoning, Conversational Systems and their applications.
+
+Link to the [slides](/pdfs/causal-inference-tanmayee.pdf)
