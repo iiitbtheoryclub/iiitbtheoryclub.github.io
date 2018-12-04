@@ -5,7 +5,7 @@ date:   2018-12-01 18:30:00 +0530
 categories: talks
 comments : True
 ---
-# Talk on Clustering Perturbation Resilient Instances
+# Talk on Clustering Perturbation Resilient Instances by [Apoorv Vikram Singh](https://www.linkedin.com/in/savs95/)
 
 #### Date: 1st, December, 2018
 
